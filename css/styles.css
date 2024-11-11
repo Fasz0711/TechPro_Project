@@ -253,16 +253,16 @@ img{
 }
 
 .modelo-x{
-    background-image: url(/Proyecto_TechPro/img/modelo-x.svg);
+    background-image: url(../img/modelo-x.svg);
 
 }
 .modelo-y{
-    background-image: url(/Proyecto_TechPro/img/modelo-y.svg);
+    background-image: url(../img/modelo-y.svg);
     
 }
 
 .modelo-z{
-    background-image: url(/Proyecto_TechPro/img/modelo-z.svg);
+    background-image: url(../img/modelo-z.svg);
     background-color: var(--primary);
     color: var(--blanco);
 }
